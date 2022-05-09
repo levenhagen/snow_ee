@@ -1,1 +1,6 @@
 ansible-runner
+pysnow
+requests
+packaging
+requests[security]
+xmltodict
